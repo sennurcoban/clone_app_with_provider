@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "34811699127",
+    "project_id": "goodrx-35fc5",
+    "storage_bucket": "goodrx-35fc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34811699127:android:d4cc1d0e5914c818b1d232",
+        "android_client_info": {
+          "package_name": "com.example.good_rx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34811699127-mdiklgv1f6n1934k6fqk20cit8a99sgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.good_rx",
+            "certificate_hash": "3dda5f99a5e77be86fbb76c89920e00fd2f2dbba"
+          }
+        },
+        {
+          "client_id": "34811699127-ecueihcej1g85i0677gontm0f4ih32dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi-7fHAC2AHKKcJn2GphS9m90XnKOWlQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34811699127-ecueihcej1g85i0677gontm0f4ih32dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
